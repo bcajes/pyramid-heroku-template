@@ -1,0 +1,7 @@
+Template for launching Pyramid apps on heroku
+
+Documentation on deplying python apps on heroku: https://devcenter.heroku.com/articles/python
+
+To test once you have heroku environment setup:
+ foreman start
+
